@@ -81,13 +81,13 @@ stkbtn.setOnClickListener(new View.OnClickListener() {
 
         try {
 
-            json.put("BusinessShortCode","7631176");
-            json.put("Password","NzYzMTE3NmU4ZjIyM2U3OTBlNWIxMWVhMzliMjZiNjk2N2ExOGQzYzA5OGJiMjI3YjZiNWJiZDE0OWIyNDA5MTJlZGJhODUyMDE5MDIxNjE2NTYyNw==");
+            json.put("BusinessShortCode","7425313");
+            json.put("Password","NzQyNTMxMzM0YTNmMTAwZTcyNDVmNzg3YmViYjI2ZGVlMTFmM2Q1ODAyNjJhMzg3ZmY0NTIzZGM2ZmYyNjE1ZDBmMDdiMmYyMDE5MDIxNjE2NTYyNw==");
             json.put("Timestamp","20190216165627");
             json.put("TransactionType","CustomerBuyGoodsOnline");
             json.put("Amount",Amount);
             json.put("PartyA","254707353225");
-            json.put("PartyB","9587279");
+            json.put("PartyB","5426913");
             json.put("PhoneNumber",PhoneNumber);
             json.put("CallBackURL","https://api.lunar.cyou/api/lipacallback.php");
             json.put("AccountReference","Airtime");
